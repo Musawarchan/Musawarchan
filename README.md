@@ -12,7 +12,9 @@
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/GetX-State%20Management-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REST%20API-Integration-green?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
 
 
 ## 🔥 About Me
