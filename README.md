@@ -4,8 +4,6 @@
 <p align="center">
   <em>Flutter Developer | Mobile App Enthusiast</em><br>
   <img src="https://img.shields.io/badge/Code-Flutter-blue?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-Firestore-yellow?style=flat-square&logo=firebase"/>
-  <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/State%20Mgmt-GetX-purple?style=flat-square"/>
 </p>
 
