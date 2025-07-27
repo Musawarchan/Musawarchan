@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi, I'm Musawar Hussain 👋</h1>
 <p align="center">
-  <em>Flutter Developer | Mobile App Enthusiast</em><br>
+  <strong>💙 Flutter Developer | 📱 Mobile App Enthusiast</strong><br>
+  <em>Crafting sleek, scalable, and high-performance apps with Flutter</em>
 </p>
-
 ---
 
 ## 🔥 About Me
