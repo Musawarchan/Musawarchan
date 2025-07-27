@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Musawar Hussain
 
-🚀 **Flutter Developer | Firebase Expert | AI Integration Enthusiast**
+🚀 **Flutter Developer **
 
 I’m a passionate mobile developer specializing in building beautiful, scalable, and high-performance apps using Flutter. With a strong grasp of Firebase, GetX, REST APIs, and clean architecture, I strive to deliver seamless user experiences. I'm also deeply interested in integrating cutting-edge AI tools to enhance app capabilities.
 
