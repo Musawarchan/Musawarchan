@@ -52,8 +52,7 @@ I'm a passionate Flutter developer focused on crafting scalable, elegant, and us
 
 
 
-
-<p align="center">
-  <em>Thanks for visiting my profile! Let's build something great together. 🚀</em>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!++Let's+build+something+great+together.+🚀&center=true&width=380&height=45" alt="Thank You" />
+</div>
 
