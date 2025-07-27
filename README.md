@@ -38,7 +38,7 @@ I'm a passionate Flutter developer focused on crafting scalable, elegant, and us
 ## 📬 Contact Me
 
 - 📧 Email: [hussainmusawar89@example.com](mailto:hussainmusawar89@example.com)
-- 💼 LinkedIn: [www.linkedin.com/in/musawar-hussain-chan-963a09242]([www.linkedin.com/in/musawar-hussain-chan-963a09242])
+- 💼 LinkedIn: [www.linkedin.com/in/musawar-hussain-chan-963a09242](https://www.linkedin.com/in/musawar-hussain-chan-963a09242/)
 
 
 
