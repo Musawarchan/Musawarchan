@@ -21,9 +21,6 @@ I’m a passionate mobile developer specializing in building beautiful, scalable
 **Architectures:**
 - MVC, MVVM, Clean Architecture
 
-**Tools & Services:**
-- Git, GitHub, REST APIs, Firebase Cloud Messaging (FCM), AI (OpenAI & Gemini APIs)
-
 
 ### 📚 Education
 
