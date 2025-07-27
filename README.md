@@ -41,16 +41,7 @@ I'm a passionate Flutter developer focused on crafting scalable, elegant, and us
 - 💼 LinkedIn: [www.linkedin.com/in/musawar-hussain-chan-963a09242]([www.linkedin.com/in/musawar-hussain-chan-963a09242])
 
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Musawarchan&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musawarchan&theme=radical" width="48%"/>
-</p>
-
----
 
 <p align="center">
   <em>Thanks for visiting my profile! Let's build something great together. 🚀</em>
