@@ -20,7 +20,7 @@
 
 
   <a href="https://linkedin.com/in/musawarchan">
-    <img src="https://img.shields.io/badge/LinkedIn-musawarchan-0077B5(https://www.linkedin.com/in/musawar-hussain-chan-963a09242/)?logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/[LinkedIn-musawarchan-0077B5](https://www.linkedin.com/in/musawar-hussain-chan-963a09242/)?logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:musawarchan@gmail.com">
     <img src="https://img.shields.io/badge/Email-hussainmusawar89%40gmail.com-red?logo=gmail" alt="Email"/>
