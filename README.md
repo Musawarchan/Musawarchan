@@ -23,8 +23,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-Musawar%20Hussain%20Chan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-  <a href="mailto:musawarchan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hussainmusawar89%40gmail.com-style=for-the-badge&logo=gmail" alt="Email"/>
+<a href="mailto:musawarchan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-musawarchan%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </p>
 
