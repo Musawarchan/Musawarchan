@@ -3,8 +3,6 @@
 <h1 align="center">Hi, I'm Musawar Hussain 👋</h1>
 <p align="center">
   <em>Flutter Developer | Mobile App Enthusiast</em><br>
-  <img src="https://img.shields.io/badge/Code-Flutter-blue?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/State%20Mgmt-GetX-purple?style=flat-square"/>
 </p>
 
 ---
