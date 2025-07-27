@@ -32,7 +32,7 @@ I'm a passionate Flutter developer focused on crafting scalable, elegant, and us
 | **Languages**        | Dart, HTML, CSS                                                                     |
 | **Frameworks**       | Flutter                                                                             |
 | **State Management** | GetX, Provider, Riverpod                                                            |
-| **Database**         | Firebase Firestore, SQLite, Floor DB                                                |
+| **Database**         | Firebase Firestore, SQLite, GetStorage
 | **Backend**          | Firebase Authentication, FCM, REST APIs                                             |
 | **Architecture**     | MVC, MVVM, Clean Architecture                                                       |
 | **Tools**            | Git, GitHub, Firebase Console, Postman                                              |
