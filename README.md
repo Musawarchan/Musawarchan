@@ -7,6 +7,14 @@
 </p>
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GetX-State%20Management-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+
 ## 🔥 About Me
 
 I'm a passionate Flutter developer focused on crafting scalable, elegant, and user-friendly mobile applications. I enjoy turning ideas into practical, high-performance apps with smooth user experiences across both Android and iOS platforms.
