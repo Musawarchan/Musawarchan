@@ -24,7 +24,7 @@
 </a>
 
   <a href="mailto:musawarchan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hussainmusawar89%40gmail.com-style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-hussainmusawar89%40gmail.com-style=for-the-badge&logo=gmail" alt="Email"/>
 
 </p>
 
