@@ -18,9 +18,6 @@ I’m a passionate mobile developer specializing in building beautiful, scalable
 **State Management:**
 - GetX, Provider, Riverpod
 
-**Databases:**
-- Firebase Firestore, Floor DB, SQLite
-
 **Architectures:**
 - MVC, MVVM, Clean Architecture
 
@@ -39,6 +36,3 @@ I’m a passionate mobile developer specializing in building beautiful, scalable
 - 📧 Email: [hussainmusawar89@example.com]
 - 🔗 LinkedIn: [www.linkedin.com/in/musawar-hussain-chan-963a09242]
 
----
-
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
