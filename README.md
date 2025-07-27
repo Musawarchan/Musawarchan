@@ -16,6 +16,22 @@
 </p>
 
 
+<p align="center">
+  <a href="https://github.com/Musawarchan">
+    <img src="https://img.shields.io/github/followers/Musawarchan?style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://musawarchan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-musawarchan.vercel.app-blue" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/musawarchan">
+    <img src="https://img.shields.io/badge/LinkedIn-musawarchan-0077B5?logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:musawarchan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-musawarchan%40gmail.com-red?logo=gmail" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Musawarchan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 
 ## 🔥 About Me
 
