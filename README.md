@@ -10,7 +10,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GetX Provider Bloc Riverpod -State%20Management-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GetX-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Provider-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bloc-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Riverpod-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/State%20Management-grey?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/REST%20API-Integration-green?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
