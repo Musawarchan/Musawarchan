@@ -70,7 +70,8 @@ I'm a passionate Flutter developer focused on crafting scalable, elegant, and us
 </p>
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musawarchan&layout=compact&theme=radical" width="48%"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=Musawarchan&show_icons=true&theme=radical" width="48%"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musawarchan&layout=compact&theme=radical" width="48%"/> -->
 </p> 
 
 ---
