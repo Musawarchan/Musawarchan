@@ -58,7 +58,7 @@ I'm a passionate Flutter developer focused on crafting scalable, elegant, and us
 ## 📊 GitHub Stats
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Musawarchan&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
