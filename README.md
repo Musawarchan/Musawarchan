@@ -56,15 +56,16 @@ I'm a passionate Flutter developer focused on crafting scalable, elegant, and us
 
 
 ## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Musawarchan&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musawarchan&theme=radical" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Musawarchan&show_icons=true&theme=radical" width="48%"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musawarchan&layout=compact&theme=radical" width="48%"/>
-</p>
+</p> -->
 
 ---
 
