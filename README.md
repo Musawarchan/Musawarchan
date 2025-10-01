@@ -67,6 +67,10 @@ I'm a passionate Flutter developer focused on crafting scalable, elegant, and us
 - 📧 Email: [hussainmusawar89@gmail.com](mailto:hussainmusawar89@gmail.com)
 - 💼 LinkedIn: [www.linkedin.com/in/musawar-hussain-chan-963a09242](https://www.linkedin.com/in/musawar-hussain-chan-963a09242/)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Musawarchan&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musawarchan&theme=radical" width="48%"/>
+</p>
 
 
 
