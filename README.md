@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Musawar Hussain</h1>
 <p align="center">
-  <strong>💙 Flutter Developer | 📱 Mobile App Enthusiast | ☁️ Firebase Explorer</strong><br>
+  <strong>💙 Flutter Developer | 📱 Mobile App Enthusiast </strong><br>
   <em>Crafting sleek, scalable, and high-performance apps with Flutter</em>
 </p>
 
