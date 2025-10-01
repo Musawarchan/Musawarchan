@@ -54,13 +54,6 @@ I'm a passionate Flutter developer focused on crafting scalable, elegant, and us
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Musawarchan&theme=radical&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
