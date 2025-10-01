@@ -20,7 +20,6 @@
 ---
 
 <p align="center">
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Mobile+App+Specialist;Open+Source+Contributor;Always+Learning+New+Things&center=true&width=500&height=45" alt="Typing Animation" />
 </p>
 
