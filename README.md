@@ -48,7 +48,6 @@ I'm a passionate Flutter developer focused on crafting scalable, elegant, and us
 | **Additional Expertise** | Push Notifications, Payment Gateway Integration, AI APIs |
 
 ---
-```
 
 ## 🎓 Education
 
@@ -80,11 +79,6 @@ I'm a passionate Flutter developer focused on crafting scalable, elegant, and us
 ## 🚀 Featured Projects
 
 Here are some projects that showcase my skills:
-
-- 📱 **True Network** – Systematic Investment & Profit-sharing App  
-- 🍽️ **Smart Restaurant Recommender** – AI-powered restaurant suggestion app using Gemini API  
-- ✈️ **Flight Finder** – Flight recommendation system using JSON & Firebase  
-- 🎙️ **Voice to Text AI Assistant** – Multilingual AI chatbot with speech-to-text  
 
 > 🔗 Check my repositories for more → [GitHub Projects](https://github.com/Musawarchan?tab=repositories)
 
