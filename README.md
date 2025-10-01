@@ -34,20 +34,21 @@ I'm a passionate Flutter developer focused on crafting scalable, elegant, and us
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 Skills & Expertise
 
-| Category             | Tools & Tech |
-|----------------------|--------------|
-| **Languages**        | Dart, HTML, CSS |
-| **Frameworks**       | Flutter |
-| **State Management** | GetX, Provider, Riverpod, BLoC |
-| **Database**         | Firebase Firestore, SQLite, GetStorage |
-| **Backend**          | Firebase Auth, Cloud Functions, REST APIs |
-| **Architecture**     | MVC, MVVM, Clean Architecture |
-| **Tools**            | Git, GitHub, Firebase Console, Postman, VS Code, Android Studio |
-| **Other**            | Push Notifications, Payment Gateway Integration, AI APIs |
+| Category               | Skills & Tools |
+|------------------------|----------------|
+| **Programming**        | Dart, HTML, CSS |
+| **Frameworks**         | Flutter |
+| **State Management**   | GetX, Provider, Riverpod, BLoC |
+| **Databases**          | Firebase Firestore, SQLite, GetStorage |
+| **Backend Services**   | Firebase Auth, Cloud Functions, REST APIs |
+| **Architectural Patterns** | MVC, MVVM, Clean Architecture |
+| **Development Tools**  | Git, GitHub, Firebase Console, Postman, VS Code, Android Studio |
+| **Additional Expertise** | Push Notifications, Payment Gateway Integration, AI APIs |
 
 ---
+```
 
 ## 🎓 Education
 
