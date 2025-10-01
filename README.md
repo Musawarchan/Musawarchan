@@ -5,7 +5,21 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/GetX-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Provider-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bloc-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Riverpod-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/State%20Management-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REST%20API-Integration-green?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
+---
+
+<p align="center">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Mobile+App+Specialist;Open+Source+Contributor;Always+Learning+New+Things&center=true&width=500&height=45" alt="Typing Animation" />
 </p>
@@ -14,16 +28,9 @@
 
 ## 🔥 About Me
 
-I’m a **Flutter Developer** passionate about building mobile applications that deliver exceptional user experiences.  
-I specialize in **cross-platform app development** with **Flutter, Firebase, and REST APIs**. My focus is on **performance, clean architecture, and scalability**.  
+I'm a passionate Flutter developer focused on crafting scalable, elegant, and user-friendly mobile applications. I enjoy turning ideas into practical, high-performance apps with smooth user experiences across both Android and iOS platforms.
 
-> 💡 *“Code is not just about solving problems, it’s about solving them elegantly.”*
-
-- 🌱 Currently learning **Clean Architecture & Advanced State Management**  
-- 🛠 Working on **True Network** – a systematic investment & savings app  
-- 🤝 Open to collaborating on **Flutter apps, Firebase projects, and AI integrations**  
-- 💬 Ask me about **Flutter, Firebase, REST APIs, State Management, App Deployment**  
-- 🎯 2025 Goals: Contribute more to **open source**, publish apps to **Play Store & App Store**, and build **SaaS products**  
+> 💡 *“Building solutions with simplicity, scalability, and user delight.”*
 
 ---
 
@@ -39,6 +46,12 @@ I specialize in **cross-platform app development** with **Flutter, Firebase, and
 | **Architecture**     | MVC, MVVM, Clean Architecture |
 | **Tools**            | Git, GitHub, Firebase Console, Postman, VS Code, Android Studio |
 | **Other**            | Push Notifications, Payment Gateway Integration, AI APIs |
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Information Technology**
 
 ---
 
@@ -92,14 +105,6 @@ Here are some projects that showcase my skills:
   <img src="https://img.shields.io/badge/Email-hussainmusawar89%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
-
----
-
-## ⚡ Fun Facts
-
-- 🕹️ Love coding with **lofi music** in the background  
-- ☕ Coffee helps me debug faster  
-- 🌏 Dreaming of building apps that **impact millions worldwide**  
 
 ---
 
