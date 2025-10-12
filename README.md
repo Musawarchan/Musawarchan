@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/GetX-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Provider-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bloc-orange?style=for-the-badge"/>
+<!-- <img src="https://img.shields.io/badge/Bloc-orange?style=for-the-badge"/> -->
 <img src="https://img.shields.io/badge/Riverpod-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/State%20Management-grey?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -39,11 +39,11 @@ I'm a passionate Flutter developer focused on crafting scalable, elegant, and us
 |------------------------|----------------|
 | **Programming**        | Dart, HTML, CSS |
 | **Frameworks**         | Flutter |
-| **State Management**   | GetX, Provider, Riverpod, BLoC |
+| **State Management**   | GetX, Provider, Riverpod |
 | **Databases**          | Firebase Firestore, SQLite, GetStorage |
 | **Backend Services**   | Firebase Auth, Cloud Functions, REST APIs |
 | **Architectural Patterns** | MVC, MVVM, Clean Architecture |
-| **Development Tools**  | Git, GitHub, Firebase Console, Postman, VS Code, Android Studio |
+| **Development Tools**  | Git, GitHub, Firebase Console, Postman, VS Code, Android Studio, Xcode |
 | **Additional Expertise** | Push Notifications, Payment Gateway Integration, AI APIs |
 
 ---
