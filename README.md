@@ -54,7 +54,7 @@ I'm a passionate Flutter developer focused on crafting scalable, elegant, and us
 
 ---
 
-
+<!--
 ## 📊 GitHub Stats
 <div align="center">
   
@@ -74,7 +74,7 @@ I'm a passionate Flutter developer focused on crafting scalable, elegant, and us
 </p> 
 
 ---
-
+-->
 ## 🚀 Featured Projects
 
 Here are some projects that showcase my skills:
