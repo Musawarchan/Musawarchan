@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/> 
   <img src="https://img.shields.io/badge/GetX-blue?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Bloc-pink?style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/Provider-green?style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/Riverpod-purple?style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/> 
