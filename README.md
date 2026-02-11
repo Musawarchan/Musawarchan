@@ -4,15 +4,9 @@
 </p>
 
 <p align="center">
-
-  <a href="https://github.com/Musawarchan"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Professional+Flutter+Developer;Mobile+App+Specialist;UI/UX+Enthusiast" alt="Typing SVG" />
-  </a> 
-
   <a href="https://github.com/Musawarchan">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Professional+Flutter+Developer;Mobile+App+Specialist;UI/UX+Enthusiast;Full-Stack+Mobile+Solutions" alt="Typing SVG" />
   </a>
-
 </p>
 
 <p align="center"> 
@@ -27,7 +21,7 @@
 
 ---
 
-## � About Me
+## 🔥 About Me
 
 I am a results-driven **Professional Flutter Developer** with a passion for building high-performance, scalable, and aesthetically pleasing mobile applications. With expertise in crafting seamless user experiences for both **Android and iOS**, I help businesses and clients turn their ideas into successful digital products.
 
@@ -38,23 +32,18 @@ I am a results-driven **Professional Flutter Developer** with a passion for buil
 
 ---
 
-## � Skills & Expertise
+## 💡 Skills & Expertise
 
 | Category | Skills & Tools |
 | :--- | :--- |
-
 | **🚀 Frameworks** | **Flutter**, Dart (Advanced) |
-| **🧠 State Management** | **GetX**, **Provider**, **Riverpod**, |
-
-| **🚀 Frameworks** | **Flutter**, Dart  |
 | **🧠 State Management** | **GetX**, **Provider**, **Riverpod**, Bloc |
-
 | **💾 Databases** | Firebase Firestore, SQLite, GetStorage, Hive |
 | **🌐 Backend & APIs** | Firebase Auth, Cloud Functions, RESTful APIs, JSON Integration |
 | **🎨 UI/UX Tools** | Figma, Adobe XD, Material Design, Cupertino |
 | **🛠 Dev Tools** | Git, GitHub, Postman, Android Studio, Xcode, VS Code |
 | **⚙️ Architecture** | MVC, MVVM, Clean Architecture, Dependency Injection |
-| **✨ Specialized** | Push Notifications, Google Maps AI APIs |
+| **✨ Specialized** | Push Notifications, Payment Gateways (Stripe/PayPal), Google Maps AI APIs |
 
 ---
 
@@ -99,4 +88,5 @@ I am a results-driven **Professional Flutter Developer** with a passion for buil
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Available+for+New+Projects!+🚀;Let's+Build+Something+Extraordinary!;&center=true&width=1000&height=45&color=4CAF50" alt="Availability" />
-</p> 
+</p>
+
