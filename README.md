@@ -2,11 +2,17 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Musawarchan&label=Profile%20views&color=0e75b6&style=flat-square" alt="Musawarchan" />
 </p>
- 
+
 <p align="center">
+<<<<<<< HEAD
   <a href="https://github.com/Musawarchan"> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Professional+Flutter+Developer;Mobile+App+Specialist;UI/UX+Enthusiast" alt="Typing SVG" />
   </a> 
+=======
+  <a href="https://github.com/Musawarchan">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Professional+Flutter+Developer;Mobile+App+Specialist;UI/UX+Enthusiast;Full-Stack+Mobile+Solutions" alt="Typing SVG" />
+  </a>
+>>>>>>> b1bc8b8 (redesign)
 </p>
 
 <p align="center"> 
@@ -21,12 +27,12 @@
 
 ---
 
-## 🔥 About Me
+## � About Me
 
 I am a results-driven **Professional Flutter Developer** with a passion for building high-performance, scalable, and aesthetically pleasing mobile applications. With expertise in crafting seamless user experiences for both **Android and iOS**, I help businesses and clients turn their ideas into successful digital products.
 
-- � **Goal-Oriented**: Focused on delivering clean, maintainable code.
-- � **Performance-Driven**: Expertise in optimizing app speed and responsiveness.
+- 🏆 **Goal-Oriented**: Focused on delivering clean, maintainable code.
+- 🚀 **Performance-Driven**: Expertise in optimizing app speed and responsiveness.
 - 📱 **UI/UX Focused**: Creating pixel-perfect designs that users love.
 - 🛠 **Problem Solver**: Specialized in integrating complex APIs and backend services.
 
@@ -36,14 +42,19 @@ I am a results-driven **Professional Flutter Developer** with a passion for buil
 
 | Category | Skills & Tools |
 | :--- | :--- |
+<<<<<<< HEAD
 | **🚀 Frameworks** | **Flutter**, Dart (Advanced) |
 | **🧠 State Management** | **GetX**, **Provider**, **Riverpod**, |
+=======
+| **🚀 Frameworks** | **Flutter**, Dart  |
+| **🧠 State Management** | **GetX**, **Provider**, **Riverpod**, Bloc |
+>>>>>>> b1bc8b8 (redesign)
 | **💾 Databases** | Firebase Firestore, SQLite, GetStorage, Hive |
 | **🌐 Backend & APIs** | Firebase Auth, Cloud Functions, RESTful APIs, JSON Integration |
 | **🎨 UI/UX Tools** | Figma, Adobe XD, Material Design, Cupertino |
 | **🛠 Dev Tools** | Git, GitHub, Postman, Android Studio, Xcode, VS Code |
 | **⚙️ Architecture** | MVC, MVVM, Clean Architecture, Dependency Injection |
-| **✨ Specialized** | Push Notifications, Payment Gateways (Stripe/PayPal), Google Maps AI APIs |
+| **✨ Specialized** | Push Notifications, Google Maps AI APIs |
 
 ---
 
@@ -57,6 +68,19 @@ I am a results-driven **Professional Flutter Developer** with a passion for buil
 - ✅ **API & Backend Integration** (Firebase/Node.js)
 - ✅ **App Maintenance & Bug Fixing**
 - ✅ **App Store & Play Store Deployment**
+
+---
+
+## 📊 My GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musawarchan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Musawarchan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musawarchan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
@@ -75,4 +99,4 @@ I am a results-driven **Professional Flutter Developer** with a passion for buil
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Available+for+New+Projects!+🚀;Let's+Build+Something+Extraordinary!;&center=true&width=1000&height=45&color=4CAF50" alt="Availability" />
-</p>
+</p> 
