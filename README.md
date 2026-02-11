@@ -4,15 +4,15 @@
 </p>
 
 <p align="center">
-<<<<<<< HEAD
+
   <a href="https://github.com/Musawarchan"> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Professional+Flutter+Developer;Mobile+App+Specialist;UI/UX+Enthusiast" alt="Typing SVG" />
   </a> 
-=======
+
   <a href="https://github.com/Musawarchan">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Professional+Flutter+Developer;Mobile+App+Specialist;UI/UX+Enthusiast;Full-Stack+Mobile+Solutions" alt="Typing SVG" />
   </a>
->>>>>>> b1bc8b8 (redesign)
+
 </p>
 
 <p align="center"> 
@@ -42,13 +42,13 @@ I am a results-driven **Professional Flutter Developer** with a passion for buil
 
 | Category | Skills & Tools |
 | :--- | :--- |
-<<<<<<< HEAD
+
 | **🚀 Frameworks** | **Flutter**, Dart (Advanced) |
 | **🧠 State Management** | **GetX**, **Provider**, **Riverpod**, |
-=======
+
 | **🚀 Frameworks** | **Flutter**, Dart  |
 | **🧠 State Management** | **GetX**, **Provider**, **Riverpod**, Bloc |
->>>>>>> b1bc8b8 (redesign)
+
 | **💾 Databases** | Firebase Firestore, SQLite, GetStorage, Hive |
 | **🌐 Backend & APIs** | Firebase Auth, Cloud Functions, RESTful APIs, JSON Integration |
 | **🎨 UI/UX Tools** | Figma, Adobe XD, Material Design, Cupertino |
